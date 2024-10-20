@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 
 
 NATALY_ID = 20083
-PROJECT_ID = 206571
+PROJECT_ID = 222910  # щас это тесла
 PROJECT_PAGE_PREFIX = "https://portfolio.hse.ru/Project/"
 MARK_TYPES = ["промежуточная", "проекты", "итоговая"]
 
